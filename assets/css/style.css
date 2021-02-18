@@ -150,7 +150,7 @@ body {
 }
 
 /*==== 6 - Aside ====*/
-/* Aside sections*/
+
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -162,6 +162,7 @@ body {
     background-color: #2589bd;
 }
 
+/* Aside sections*/
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
@@ -178,7 +179,6 @@ body {
 }
 
 /* Aside headings */
-
 .benefit-lead h3 {
     margin-bottom: 10px;
     text-align: center;
