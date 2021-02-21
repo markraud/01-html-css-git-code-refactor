@@ -1,29 +1,31 @@
 # Homework - 01 HTML, CSS, and Git: Code Refactor
 ### Overview:
-This is the first homework that is required for the University of Denver Codeing Boot Camp.  The assignment was to refactor existing code for the Horiseon Social Solutions Services website.  The refactoring will alter the code so that it follows website accessibility standards and will allow for search engine optimization. 
-
-The website is built with HTML and CSS. The refactoring included changing HTML tags using semantic elements.  
-    Example: 
-    ```HTML
-    <div class="content> 
-    ```
-    was changed to 
-    ```
-    <main class="content">
-    ```
+This is the first homework that is required for the University of Denver Coding Boot Camp.  The assignment was to refactor existing code for the Horiseon Social Solutions Services website.  The refactoring will alter the code so that it follows website accessibility standards and will allow for search engine optimization. 
 
 
-A descriptive title was added to the site along with alt tags for all the images.   
+####Code: 
+The website is built with HTML and CSS. 
 
-#### Links to the website and GitHub repository:
+- Refactoring included changing HTML tags using semantic elements.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *HTML Example:* 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;```<div class="content>```
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; was changed to 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;```<main class="content">```
 
-[Link to Horiseon Website](https://markraud.github.io/hw-01-html-css-git-code-refactor/).
+- A descriptive title was added to the site along with alt attributes for all the images.  
 
-[Link to GitHub Repository](https://github.com/markraud/hw-01-html-css-git-code-refactor).
+- The CSS was reorganized and comments were added to provide clarity.
+
+
+#### Links:
+
+- [Link to Horiseon Website](https://markraud.github.io/hw-01-html-css-git-code-refactor/).
+
+- [Link to GitHub Repository](https://github.com/markraud/hw-01-html-css-git-code-refactor).
 
 
 
-#### Screenshots of the website:
+#### Screenshots of the site:
 
 ![top of the site](./assets/images/Screenshot-top.jpg "Top")
 
