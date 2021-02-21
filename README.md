@@ -22,11 +22,12 @@ A descriptive title was added to the site along with alt tags for all the images
 [Link to GitHub Repository](https://github.com/markraud/hw-01-html-css-git-code-refactor).
 
 
+
 #### Screenshots of the website:
 
-![Top](./assets/images.Screenshot-top.jpg)
+![top of the site](./assets/images/Screenshot-top.jpg "Top")
 
-![Middle](./assets/images.Screenshot-mid.jpg)
+![middle of the site](./assets/images/Screenshot-mid.jpg "Middle")
 
-![Bottom](./assets/images.Screenshot-bottom.jpg)
+![bottom of the site](./assets/images/Screenshot-bottom.jpg "Bottom")
 
