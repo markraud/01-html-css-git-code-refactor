@@ -3,7 +3,7 @@
 This is the first homework that is required for the University of Denver Coding Boot Camp.  The assignment was to refactor existing code for the Horiseon Social Solutions Services website.  The refactoring will alter the code so that it follows website accessibility standards and will allow for search engine optimization. 
 
 
-####Code: 
+#### Code: 
 The website is built with HTML and CSS. 
 
 - Refactoring included changing HTML tags using semantic elements.  
