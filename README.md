@@ -33,3 +33,12 @@ The website is built with HTML and CSS.
 
 ![bottom of the site](./assets/images/Screenshot-bottom.jpg "Bottom")
 
+#### Summary:
+
+This project taught me about using semantic HTML and also helped me understand how to consolidate CSS code so that it does not repeat. 
+
+Other important things covered were:
+- creating a GitHub repository
+- deploying a site using GitHub
+- creating valuable readme files using markdown
+
