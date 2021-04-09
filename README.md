@@ -33,6 +33,15 @@ The website is built with HTML and CSS.
 
 ![bottom of the site](./assets/images/Screenshot-bottom.jpg "Bottom")
 
+#### Contact Info:
+Built by Mark Raudenbush
+markraud@hotmail.com
+- [My LinkedIn](https://www.linkedin.com/in/markraudenbush)
+- [My GitHub](https://github.com/markraud?tab=stars)
+
+#### License:
+The MIT License (MIT)
+
 #### Summary:
 
 This project taught me about using semantic HTML and also helped me understand how to consolidate CSS code so that it does not repeat. 
